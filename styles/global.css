@@ -1,0 +1,212 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  min-height: 100%;
+  font-family: sans-serif;
+  font: Courier, monospace;
+}
+
+body {
+  font-family: sans-serif;
+  font: Courier, monospace;
+  line-height: 1.6;
+  background-color: #c5c5c5;
+  color: #4c5b61;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.link a.active {
+  color: #c5c5c5;
+  background-color: #949b96 !important;
+}
+
+.link a {
+  color: #829191;
+  background-color: #c5c5c5 !important;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.side-text {
+  margin-left: 20px;
+  padding: 3px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.test {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  margin-top: -15px;
+  background-color: #4c5b61;
+  flex: 1;
+  font-size: larger;
+  color: #c5c5c5;
+  font: Courier, monospace;
+  font-variant: small-caps;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.text {
+  padding-left: 25px;
+}
+
+.sidebar {
+  min-height: 100vh;
+  background-color: #4c5b61;
+  width: 13%;
+  color: #bc8034;
+  font-size: 0.9rem;
+  font-variant: small-caps;
+  font-size: larger;
+  text-align: right;
+  line-height: 3;
+  right: 0;
+  position: fixed;
+  text-align: center;
+}
+
+.float-child {
+  float: left;
+}
+
+.mainpage {
+  width: 87%;
+  background-color: #c5c5c5;
+}
+
+.float2-child {
+  margin-right: 20px;
+}
+
+.float-child2 {
+  float: left;
+  margin-top: 10px;
+  width: 70%;
+}
+
+.img {
+  margin: 25px;
+  margin-top: 40px;
+}
+
+.img4 {
+  margin-top: 50px;
+}
+
+.img3 {
+  margin-top: 80px;
+}
+
+.main-text {
+  margin-top: 35px;
+}
+
+.img2 {
+  padding-bottom: 0px;
+}
+
+.projects {
+  float: left;
+  padding-left: 20px;
+}
+
+.disclaimer {
+  text-align: center;
+}
+
+.projects2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.project {
+  width: fit-content;
+  margin: 25px;
+}
+
+.classify-horizontal {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.classify {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0px;
+}
+
+.classify-main {
+  width: 100%;
+}
+
+.title {
+  font-variant: normal;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.classify-contents {
+  width: 50%;
+  margin: 20px;
+}
+
+.puzzle-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.puzzle-container2 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.puzzle-content3 {
+  margin-right: 50px;
+  margin-left: 25px;
+}
+.puzzle-content2 {
+  margin-top: 70px;
+}
+
+.puzzle-contents {
+  width: 50%;
+  margin: 20px;
+}
+
+.puzzle-main {
+  width: 100%;
+}
+
+.exp-text {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.puz-text {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.pic {
+  filter: brightness(85%);
+}
+
+.project-list {
+  text-align: left;
+}
+
+.ml {
+  margin-left: 140px;
+}
